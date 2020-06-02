@@ -1,5 +1,5 @@
 # 🎮 Zombie VS Survivor 🎮
-This project is created by [Zandra Nilsson](https://github.com/zandrainilsson) as part of the course [Object-Oriented Programming and Modelling for IA](https://edu.mau.se/sv/Course/DA361A).
+This project was created by [Zandra Nilsson](https://github.com/zandrainilsson) as part of the course [Object-Oriented Programming and Modelling for IA](https://edu.mau.se/sv/Course/DA361A) at [Malmö University](https://mau.se/).
 
 It's a simple game of zombie verus survivor, where the player get to choose one character and weapon amongst several to fight a random zombie (played by the computer).
 
