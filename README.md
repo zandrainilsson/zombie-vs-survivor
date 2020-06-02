@@ -3,7 +3,7 @@ This project was created by [Zandra Nilsson](https://github.com/zandrainilsson) 
 
 It's a simple game of zombie verus survivor, where the player get to choose one character and weapon amongst several to fight a random zombie (played by the computer).
 
-# Prerequisites
+## Prerequisites
 You need to have [Python](https://www.python.org/downloads/) installed on your computer.
 
 # Play the Game
